@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc56d4da-fb89-4c7a-bf3a-628c09f69046" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="我和仙女的专属" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rjyXQXYwKuCwWsPelEUOEa42VL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc56d4da-fb89-4c7a-bf3a-628c09f69046" name="Default Changelist" comment="" />
+      <created>1619503832941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619503832941</updated>
+      <workItem from="1619503834773" duration="9470000" />
+      <workItem from="1619656685556" duration="4616000" />
+      <workItem from="1619682901312" duration="1796000" />
+      <workItem from="1619743498031" duration="1201000" />
+      <workItem from="1619784532119" duration="1200000" />
+      <workItem from="1619859101101" duration="668000" />
+      <workItem from="1619954640134" duration="633000" />
+      <workItem from="1620223042014" duration="1437000" />
+      <workItem from="1620261563253" duration="1348000" />
+      <workItem from="1620272492132" duration="735000" />
+      <workItem from="1620528911993" duration="615000" />
+      <workItem from="1620781772077" duration="2450000" />
+      <workItem from="1621169590491" duration="414000" />
+      <workItem from="1621302305051" duration="1508000" />
+      <workItem from="1621422591448" duration="571000" />
+      <workItem from="1621423262374" duration="798000" />
+      <workItem from="1621470972362" duration="1549000" />
+      <workItem from="1621472706391" duration="3227000" />
+      <workItem from="1622216091544" duration="868000" />
+      <workItem from="1627281898180" duration="626000" />
+      <workItem from="1628427675076" duration="690000" />
+      <workItem from="1632643737215" duration="2228000" />
+      <workItem from="1632645980272" duration="43000" />
+      <workItem from="1632646033906" duration="1203000" />
+      <workItem from="1632647253700" duration="327000" />
+      <workItem from="1632647596876" duration="2149000" />
+      <workItem from="1632649761403" duration="3048000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Images" timestamp="1619505190166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Images/0.0.1536.824@0.0.1536.824" timestamp="1619505190166" />
+    <state x="474" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621471546705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="474" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1621471546705" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/100-things/sanwomen.html</url>
+          <line>662</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
